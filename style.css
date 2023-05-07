@@ -1,0 +1,130 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    font-size: 100%;    
+    background: orange;
+    font-family: 'Bebas Neue', cursive;
+    
+}
+.cabecalho {
+    background-color: black;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.cabecalho-logo{
+    height: 350px;  
+}
+
+.botoes-nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: -20px; 
+       
+}
+
+.botao-nav1{
+    font-size: 44px;
+    font-family:'Bebas Neue', cursive;
+    height: 100px; 
+    background-color: black;
+    color: orange;
+    border: 0;  
+    margin-left: 60px;
+    cursor: pointer;
+       
+    
+}  
+
+
+.conteudo-principal{
+    text-align: center;
+}
+.titulo-inicio{
+    font-size: 90px;
+}
+.conteudo-inicio{
+    font-size: 40px
+}
+
+.titulo-cardapio{
+    font-size: 50px;
+}
+.sobre-nós {
+font-size: 30px;
+text-align: center;
+
+
+}
+.MALINO{
+    font-size: 35px; 
+    display: inline-block;  
+    
+
+    
+}
+
+.IXTEPO{
+     
+    font-size: 35px;
+    display: inline-block;
+           
+}
+
+.LADINO{
+     
+    font-size: 35px;   
+    display: inline-block;   
+}
+
+.COSA-TOLA{
+       
+    font-size: 35px; 
+    display: inline-block;   
+}
+
+.COSA-MAISH-QUERIDA{
+      
+    font-size: 35px;  
+    display: inline-block;
+}
+
+
+
+
+
+.lanche-logo{
+    border-color: black;
+    border: solid 4px;
+    height: 300px;
+    margin-right: 70%;
+    
+
+   
+
+
+
+}
+
+.rodape{
+    text-align: center;
+    background-color: black;
+    color: orange;
+   
+    
+
+}
+
+.link{
+    color: orange;
+    font-size: 20px;
+}
